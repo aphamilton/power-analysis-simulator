@@ -1,0 +1,1 @@
+The files above are four different versions of the simulator I created at different points in time. Most of them are self-contained, though the version for the Autism and Inferences project relies on unpublished data files.
